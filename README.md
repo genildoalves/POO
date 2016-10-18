@@ -7,5 +7,5 @@
 * Matricula: 20131380235
 
 ### Links:
-https://try.github.io/
-https://www.codecademy.com/pt/learn/learn-git
+* https://try.github.io/
+* https://www.codecademy.com/pt/learn/learn-git
